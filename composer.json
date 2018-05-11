@@ -1,0 +1,26 @@
+{
+  "name": "ombi-companion",
+  "description": "Ombi Companion WP plugin.",
+  "keywords": [
+	"wordpress",
+	"site-options",
+	"utility",
+	"helper"
+  ],
+  "homepage": "http://github.com/scarstens/ombi-companion",
+  "license": "proprietary",
+  "authors": [
+	{
+	  "name": "Sethflix bros",
+	  "email": "code.devwalker@domain.test",
+	  "homepage": "http://github.com/scarstens/ombi-companion",
+	  "role": "Developer"
+	}
+  ],
+  "require": {
+	"WordPress-Phoenix/abstract-plugin-base": "^2.6"
+  },
+  "config": {
+	"vendor-dir": "lib"
+  }
+}
